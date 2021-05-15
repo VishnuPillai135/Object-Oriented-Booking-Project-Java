@@ -1,0 +1,10 @@
+{
+  "venue": "Zoo",
+  "rooms": ["Hippo"],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}

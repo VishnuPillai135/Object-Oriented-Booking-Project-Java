@@ -1,0 +1,5 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "Zoo", "room": "Hippo", "size": "large" }
+{ "command": "room", "venue": "Zoo", "room": "Elephant", "size": "large" }
+{ "command": "room", "venue": "Gardens", "room": "Figtree", "size": "large" }
+{ "command": "list", "venue": "FakeVenue" }
