@@ -1,3 +1,3 @@
 # Object-Oriented-Project-Java
-# ObjectOriented-Java1
-# ObjectOriented-Java1
+
+Object Oriented Java Project for University. Created a booking system.
